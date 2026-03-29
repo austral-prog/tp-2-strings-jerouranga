@@ -3,7 +3,7 @@ from pydoc import describe
 
 def casting():
     """Lee precio, descuento y cantidad como texto y calcula el precio con descuento y el total."""
-
+    pass
     precio_t = input()
     descuento_t = input()
     cantidad_t = input()
